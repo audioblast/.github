@@ -2,6 +2,18 @@
 
 [audioBlast](https://audioblast.org) is a project to mke bioacoustic and ecoacoustic collections organised, discoverable and searchable.
 
+### Organisation
+
+[vocab.audioblast.org](https://vocab.audioblast.org) provides terms and controlled vocabularies for managing bioacoustic datasets. More generic management related to media files is achieved using the Audiovisual Core from TDWG.
+
+### Discovery
+
+All audioBlast data can be accessed via [api.audioblast.org](https://api.audioblast.org).
+
+### Search
+
+Explore our dataset at [audioblast.org](https://audioblast.org).
+
 <!--
 
 **Here are some ideas to get you started:**
