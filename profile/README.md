@@ -11,7 +11,7 @@
 
 [vocab.audioblast.org](https://vocab.audioblast.org) provides terms and controlled vocabularies for managing bioacoustic datasets. More generic management related to media files is achieved using the Audiovisual Core from TDWG.
 
-[cn.audioblast.org](https://cdn.audioblast.org) shared media and libraries.
+[cdn.audioblast.org](https://cdn.audioblast.org) shared media and libraries.
 
 ### Discovery
 
